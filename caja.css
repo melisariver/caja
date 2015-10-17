@@ -1,0 +1,21 @@
+.father{
+padding: 100px 20px 70px 100px;
+border-top: 20px solid violet;
+border-right: 10px solid violet; 
+border-bottom:20px solid violet;
+border-left:10px solid violet;
+margin: 10px 60px 30.5px;
+background-color: yellow ;
+border-radius: 10px;
+}
+
+.son{
+background-color: white;
+border: 2px dashed green;
+height: 100px;
+text-align: center;
+line-height: 40px;
+}
+body{
+	background-color: blue;
+}
